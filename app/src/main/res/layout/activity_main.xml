@@ -63,7 +63,7 @@
             <ImageView
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:src="@drawable/share"
+                android:src="@drawable/call"
                 android:layout_marginLeft="40dp"
                 android:layout_marginTop="20dp"/>
             <TextView
@@ -118,6 +118,7 @@
         android:layout_height="wrap_content"
         android:text="@string/sting"
         android:textSize="18dp"
+        android:textAlignment=""
         android:layout_marginTop="20dp"
         android:layout_marginHorizontal="10dp"
         />
